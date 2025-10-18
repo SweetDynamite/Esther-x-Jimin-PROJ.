@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Randomly chooses number among 1 to 9.
 
 ## How to test
 
-Explain how to use your project
+Press "start", and random number among 1 to 9 will appear on the LED display.
 
 ## External hardware
 
