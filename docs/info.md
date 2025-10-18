@@ -1,10 +1,10 @@
 ## How it works
 
-Randomly chooses number among 1 to 9.
+All of the outputs are connected to the leds that composes number 7 shape.
 
 ## How to test
 
-Press "start", and random number among 1 to 9 will appear on the LED display.
+Press "start", and turn on any switch-any swith-just at least one. Then the number 7 will always appear on the LED display.
 
 ## External hardware
 
