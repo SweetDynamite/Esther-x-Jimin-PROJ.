@@ -4,7 +4,7 @@ project:
   title:        "EJ Wokwi proj."      # Project title
   author:       "Jimin & Esther"      # Your name
   discord:      "h3iq"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "Picks random number among 1 to 9 (I'mma kms)"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     1000       # Clock frequency in Hz (or 0 if not applicable)
 
